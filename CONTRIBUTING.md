@@ -54,12 +54,13 @@ There are multiple tools that can be used to do all of this. A list of tasks to 
 5. Update the **README.md** file in that dedicated folder to reflect your custom step and replace the screenshots in the **img** subdirectory
    with screenshots of the UI of your custom step 
 6. (GitHub Desktop) Commit the changed files and push them back to your **Forked** repository (aka. origin remote repository)
-7. (GitHub Desktop/GitHub webUI) From the **Forked repository**, issue a **Pull request** to make your contribution available for review 
+7. (GitHub webUI) **Sync** your **Forked repository** to incorporate all changes from the upstream/parent repository.
+8. (GitHub Desktop/GitHub webUI) From the **Forked repository**, issue a **Pull request** to make your contribution available for review 
    by the maintainers of the parent repository
 8. (GitHub webUI) As part of the **Pull request** you will be shown a message in the GitHub webUI that asks you to answer the questions outlined in
    "Checklist before contributing" shown above, and also asks to attach a signed version of the [Contributor Agreement](ContributorAgreement.txt)
 
-Ad step 7:
+Ad step 8:
     * This can be done directly from the **GitHub webUI** or initiated from the **GitHub Desktop application**. The latter will
       open a browser tab showing the Pull request page in the GitHub webUI.
     * A **Pull request** results in the maintainers of the parent repository to be notified of a contribution/update.  
